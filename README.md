@@ -22,10 +22,10 @@ Make sure you have your <a href="https://dolby.io/developers/media-processing/qu
 In the case any bugs occur, report it using Github issues and we will see to it. 
 
 # Contributing
-We welcome your contributions and are invite you as such. 
+We welcome your contributions and are inviting you as such. 
 
 # Feedback 
-If there any suggestions or if you would live to deliver any positive notes, feel free to open an issue and let us know!
+If there any suggestions or if you would like to deliver any positive notes, feel free to open an issue and let us know!
 
 # Learn More
 For a deeper dive, we welcome you to review the followingL 
