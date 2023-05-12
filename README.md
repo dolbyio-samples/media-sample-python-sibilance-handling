@@ -1,5 +1,5 @@
-<div align="center"> <a href = "https://dolby.io/blog/improve-speech-by-controlling-sibilance"><img src="https://dolby.io/wp-content/uploads/2021/09/Improve-Speech-by-Controlling-Sibilance-with-Python.jpg"/></a>
-</div>
+[![License](https://img.shields.io/github/license/dolbyio-samples/blog-media-sibilance-jupyter)](LICENSE)
+
 
 # Improve Speech by Controlling Sibilance with Python
 
@@ -9,9 +9,6 @@ shared as part of the Dolby.io blog post titled
 
 # Overview
 Given the overview of sibilance in speech and how it can negatively impact the quality of audio recordings, the Jupyter Notebook demonstrates how to use the Dolby.io Media API to detect and remove sibilance from audio files. 
-
-# Branches
-<b> Main: </b> Current branch.
 
 # Requirements 
 Knowledge of audio processing and Python may be helpful in understanding the concepts and code presented in the blog. To follow along with the tutorial, you would need to have Python 3, Jupyter Notebook, NumPy, and librosa libraries installed. The instructions on how to install these dependencies are explicit in the code. 
@@ -24,8 +21,8 @@ Make sure you have your <a href="https://dolby.io/developers/media-processing/qu
 # Troubleshooting 
 In the case any bugs occur, report it using Github issues, and we will see to it. 
 
-# Contributing
-We welcome your contributions and are inviting you as such. 
+# Forking
+We welcome your interest in trying to experiment with our repos. 
 
 # Feedback 
 If there are any suggestions or if you would like to deliver any positive notes, feel free to open an issue and let us know!
