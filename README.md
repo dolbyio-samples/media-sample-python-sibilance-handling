@@ -8,10 +8,13 @@ shared as part of the Dolby.io blog post titled
 [Improve Speech by Controlling Sibilance with Python](https://dolby.io/blog/improve-speech-by-controlling-sibilance) by Rudy Trubitt.
 
 # Overview
-Given the overview of sibilance in speech and how it can negatively impact the quality of audio recordings, the Jupyter notebook demonstrates how to use the Dolby.io Media API to detect and remove sibilance from audio files. 
+Given the overview of sibilance in speech and how it can negatively impact the quality of audio recordings, the Jupyter Notebook demonstrates how to use the Dolby.io Media API to detect and remove sibilance from audio files. 
+
+# Branches
+<p> <b> Main: </b> Current branch. </p>
 
 # Requirements 
-Some knowledge of audio processing and Python may be helpful in understanding the concepts and code presented in the blog. To follow along with the tutorial you would need to have Python 3, Jupyter Notebook, NumPy and librosa libraries installed. The instructions on how to install these dependencies are explicit in the code. 
+Knowledge of audio processing and Python may be helpful in understanding the concepts and code presented in the blog. To follow along with the tutorial, you would need to have Python 3, Jupyter Notebook, NumPy, and librosa libraries installed. The instructions on how to install these dependencies are explicit in the code. 
 
 # Getting Started 
 As part of performing the detection and removal of sibilance, you would need to sign up for a <a href="https://dashboard.dolby.io/signup/"> Dolby.io account.</a> You receive 50GBs to start out for free, which should help you get started with this project. 
@@ -19,7 +22,7 @@ As part of performing the detection and removal of sibilance, you would need to 
 Make sure you have your <a href="https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key"> API key ready </a> and a pre-signed URL before uploading your audio file for enhancing. 
 
 # Troubleshooting 
-In the case any bugs occur, report it using Github issues and we will see to it. 
+In the case any bugs occur, report it using Github issues, and we will see to it. 
 
 # Contributing
 We welcome your contributions and are inviting you as such. 
@@ -28,7 +31,7 @@ We welcome your contributions and are inviting you as such.
 If there any suggestions or if you would like to deliver any positive notes, feel free to open an issue and let us know!
 
 # Learn More
-For a deeper dive, we welcome you to review the followingL 
+For a deeper dive, we welcome you to review the following:
  - <a href = "https://docs.dolby.io/media-apis/docs/enhance-api-guide"> Media Enhance API </a>
  - <a href = "https://docs.dolby.io/media-apis/docs/quick-start-to-enhancing-media"> Getting Started with Enhance API </a>
  - <a href = "https://docs.dolby.io/media-apis/reference/media-enhance-post"> API Reference </a>
@@ -37,7 +40,7 @@ For a deeper dive, we welcome you to review the followingL
  - <a href = "https://dolby.io/search/?_blog_categories=media"> Blog Session - Media API </a>
 
 # About Dolby.io
-<p>Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.</p>
+<p>Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real-time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.</p>
 
 <div id="social" align="center">
   <a href="https://dolby.io/" target="_blank"><img src="https://img.shields.io/badge/-HomePage-yellowgreen" alt="Dolby.io Home"/></a>
