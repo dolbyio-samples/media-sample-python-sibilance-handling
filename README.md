@@ -18,7 +18,7 @@ As part of performing the detection and removal of sibilance, you would need to 
 
 Make sure you have your <a href="https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key"> API key ready </a> and a pre-signed URL before uploading your audio file for enhancing. 
 
-# Troubleshooting 
+# Report a Bug 
 In the case any bugs occur, report it using Github issues, and we will see to it. 
 
 # Forking
