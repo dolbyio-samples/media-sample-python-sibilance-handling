@@ -3,8 +3,6 @@
 
 # Improve Speech by Controlling Sibilance with Python
 
-<img src="https://img.shields.io/github/commits-since/dolbyio-samples/blog-media-sibilance-jupyter/latest"/>
-
 This repository contains the Jupyter Notebook that was
 shared as part of the Dolby.io blog post titled
 [Improve Speech by Controlling Sibilance with Python](https://dolby.io/blog/improve-speech-by-controlling-sibilance) by Rudy Trubitt.
