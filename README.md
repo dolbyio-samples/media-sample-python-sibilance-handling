@@ -11,7 +11,7 @@ shared as part of the Dolby.io blog post titled
 Given the overview of sibilance in speech and how it can negatively impact the quality of audio recordings, the Jupyter Notebook demonstrates how to use the Dolby.io Media API to detect and remove sibilance from audio files. 
 
 # Branches
-<p> <b> Main: </b> Current branch. </p>
+<b> Main: </b> Current branch.
 
 # Requirements 
 Knowledge of audio processing and Python may be helpful in understanding the concepts and code presented in the blog. To follow along with the tutorial, you would need to have Python 3, Jupyter Notebook, NumPy, and librosa libraries installed. The instructions on how to install these dependencies are explicit in the code. 
@@ -28,7 +28,7 @@ In the case any bugs occur, report it using Github issues, and we will see to it
 We welcome your contributions and are inviting you as such. 
 
 # Feedback 
-If there any suggestions or if you would like to deliver any positive notes, feel free to open an issue and let us know!
+If there are any suggestions or if you would like to deliver any positive notes, feel free to open an issue and let us know!
 
 # Learn More
 For a deeper dive, we welcome you to review the following:
