@@ -37,7 +37,7 @@ For a deeper dive, we welcome you to review the followingL
  - <a href = "https://dolby.io/search/?_blog_categories=media"> Blog Session - Media API </a>
 
 # About Dolby.io
-<p>Learn how to integrate high-fidelity audio and video solutions into your real-time communications and file-based media processing applications. You can find the knowledge, documentation, tools and sample projects to help you get started.</p>
+<p>Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.</p>
 
 <div id="social" align="center">
   <a href="https://dolby.io/" target="_blank"><img src="https://img.shields.io/badge/-HomePage-yellowgreen" alt="Dolby.io Home"/></a>
