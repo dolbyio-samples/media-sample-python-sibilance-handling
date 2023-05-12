@@ -36,7 +36,7 @@ For a deeper dive, we welcome you to review the followingL
  - <a href = "https://dolby.io/blog/dialog-enhancement-on-large-audiences/"> Predicting Impact of Dialog Enhancement on Large Audiences </a>
  - <a href = "https://dolby.io/search/?_blog_categories=media"> Blog Session - Media API </a>
 
-# Dolby.io
+# About Dolby.io
 <p>Learn how to integrate high-fidelity audio and video solutions into your real-time communications and file-based media processing applications. You can find the knowledge, documentation, tools and sample projects to help you get started.</p>
 
 <div id="social" align="center">
