@@ -1,6 +1,5 @@
 [![License](https://img.shields.io/github/license/dolbyio-samples/blog-media-sibilance-jupyter)](LICENSE)
 
-
 # Improve Speech by Controlling Sibilance with Python
 
 This repository contains the Jupyter Notebook that was
@@ -14,9 +13,9 @@ Given the overview of sibilance in speech and how it can negatively impact the q
 Knowledge of audio processing and Python may be helpful in understanding the concepts and code presented in the blog. To follow along with the tutorial, you would need to have Python 3, Jupyter Notebook, NumPy, and librosa libraries installed. The instructions on how to install these dependencies are explicit in the code. 
 
 # Getting Started 
-As part of performing the detection and removal of sibilance, you would need to sign up for a <a href="https://dashboard.dolby.io/signup/"> Dolby.io account.</a> You receive 50GBs to start out for free, which should help you get started with this project. 
+As part of performing the detection and removal of sibilance, you would need to sign up for a [Dolby.io account](https://dashboard.dolby.io/signup/) You receive 50GBs to start out for free, which should help you get started with this project. 
 
-Make sure you have your <a href="https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key"> API key ready </a> and a pre-signed URL before uploading your audio file for enhancing. 
+Make sure you have your [API key ready](https://dolby.io/developers/media-processing/quick-start/analyzing-media#1-get-your-api-key) and a pre-signed URL before uploading your audio file for enhancing. 
 
 # Report a Bug 
 In the case any bugs occur, report it using Github issues, and we will see to it. 
@@ -29,30 +28,31 @@ If there are any suggestions or if you would like to deliver any positive notes,
 
 # Learn More
 For a deeper dive, we welcome you to review the following:
- - <a href = "https://docs.dolby.io/media-apis/docs/enhance-api-guide"> Media Enhance API </a>
- - <a href = "https://docs.dolby.io/media-apis/docs/quick-start-to-enhancing-media"> Getting Started with Enhance API </a>
- - <a href = "https://docs.dolby.io/media-apis/reference/media-enhance-post"> API Reference </a>
- - <a href = "https://dolby.io/blog/sampling-excerpts-of-media-to-determine-ideal-enhance-parameters/"> Sampling Excerpts of Media to Determine Ideal Enhance Parameters </a>
- - <a href = "https://dolby.io/blog/dialog-enhancement-on-large-audiences/"> Predicting Impact of Dialog Enhancement on Large Audiences </a>
- - <a href = "https://dolby.io/search/?_blog_categories=media"> Blog Session - Media API </a>
+ - [Media Enhance API](https://docs.dolby.io/media-apis/docs/enhance-api-guide)
+ - [Getting Started with Enhance API](https://docs.dolby.io/media-apis/docs/quick-start-to-enhancing-media)
+ - [API Reference](https://docs.dolby.io/media-apis/reference/media-enhance-post)
+ - [Sampling Excerpts of Media to Determine Ideal Enhance Parameters](https://dolby.io/blog/sampling-excerpts-of-media-to-determine-ideal-enhance-parameters/)
+ - [Predicting Impact of Dialog Enhancement on Large Audiences](https://dolby.io/blog/dialog-enhancement-on-large-audiences/)
+ - [Blog Session - Media API](https://dolby.io/search/?_blog_categories=media)
 
 # About Dolby.io
-<p>Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real-time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.</p>
+Dolby.io is a new developer platform by Dolby Laboratories using decades of Dolby's sight and sound technology. Learn how to integrate APIs for real-time streaming, communications, and media processing solutions. You can find the tools, documentation, and sample projects to help you get started.
 
-<div id="social" align="center">
-  <a href="https://dolby.io/" target="_blank"><img src="https://img.shields.io/badge/-HomePage-yellowgreen" alt="Dolby.io Home"/></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://docs.dolby.io/" target="_blank"><img src="https://img.shields.io/badge/-Our%20Documentation-orange" alt="Dolby.io Documentation"/></a>
-  &nbsp; &nbsp; &nbsp;
+<div align="center">
+  
+[![Dolby.io Home](https://img.shields.io/badge/-HomePage-yellowgreen)](https://dolby.io/)
+&nbsp; &nbsp; &nbsp;
+[![Dolby.io Documentation](https://img.shields.io/badge/-Our%20Documentation-orange)](https://docs.dolby.io/)
+&nbsp; &nbsp; &nbsp;
 
-  <a href="https://www.linkedin.com/company/dolbyio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="@dolbyio on LinkedIn"/></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://www.youtube.com/@DolbyIO" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCSDb7U26aVd5BlKswfo3apg?style=social" alt="@dolbyio on YouTube"/></a>
-  &nbsp; &nbsp; &nbsp;
-  <a href="https://twitter.com/DolbyIO" target="_blank"><img src="https://img.shields.io/twitter/follow/dolbyio?style=social" alt="@dolbyio on Twitter"/></a>
-  &nbsp; &nbsp; &nbsp;
+[![@dolbyio on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dolbyio)
+&nbsp; &nbsp; &nbsp;
+[![@dolbyio on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DolbyIO/)
+&nbsp; &nbsp; &nbsp;
+[![@dolbyio on Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DolbyIO/)
+&nbsp; &nbsp; &nbsp;
+  
 </div>
-
 
 
 
